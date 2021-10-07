@@ -1,4 +1,4 @@
-# MongoDBAggregation
+# MongoDB Aggregation Lab - Julie's Interview :)
 Looking forward to talking with you all!
 
 Presentation: https://docs.google.com/presentation/d/1PXQ-0vdE7MAf2XahZx-qrmVdD7bS1jEAtAGRv6CavGI/edit?usp=sharing
